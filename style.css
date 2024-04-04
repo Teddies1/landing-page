@@ -102,9 +102,33 @@ img[alt~="Landscape"]{
 img {
     width: 100px;
     height: 100px;
-    border: 3px solid #3882f6;
 }
 
 .random-information {
     padding: 24px;
+}
+
+.quote-container {
+   padding: 72px;
+}
+.inspiring-quote {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    max-width: 800px;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+    color: 1f39e7;
+}
+.quote-author {
+    text-align: right;
+    color: #1f2937;
+    font-weight: bolder;
+    font-size: 24px;;
 }
