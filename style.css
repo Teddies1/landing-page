@@ -45,13 +45,13 @@ ul {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding-top: 48px;
+    margin-top: 24px;
 }
 
 .hero-main {
     color: #f9faf8;
     font-weight: bolder;
-    font-size: 48px;
+    font-size: 46px;
 }
 
 .hero-secondary {
@@ -84,13 +84,16 @@ button, .call-sign-up {
 }
 
 .info-title {
-    margin-bottom: 32px;
+    margin-bottom: 8px;
     text-align: center;
     color: #1f2937;
     font-weight: bolder;
     font-size: 36px;
 }
 
+.text {
+    margin-top: 8px;
+}
 .info {
     display: flex;
     flex-direction: column;
@@ -100,10 +103,15 @@ button, .call-sign-up {
     text-align: center;
 }
 
-img[alt~="Landscape"]{
-    width: 500px;
+img[alt~="bear"]{
+    width: 40px;
+    height: 40px;
+}
+
+img[alt~="nurburgring"]{
+    width: 400px;
     height: 200px;
-    margin-top: 42px;
+    margin-top: 48px;
 }
 
 img {
