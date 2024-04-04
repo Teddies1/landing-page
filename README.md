@@ -1,4 +1,6 @@
-# landing-page for Odin Project
+# This is my Landing Page project for the Odin Project!
+
+This webpage is written in HTML and styled with CSS and flexbox!
 
 background image taken from: https://unsplash.com/photos/the-sun-is-shining-through-the-clouds-over-the-desert-bd0Sgi0ThMw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
 
